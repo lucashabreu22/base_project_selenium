@@ -1,6 +1,6 @@
 # Automation
 
-This automation project was made to automate web test scnarios using Selenium and Cucumber
+This automation project was made to automate web test scenarios, written in Gherkin, using Selenium and Cucumber. 
 
 ## Informations
 - Page Objest Structured
@@ -13,4 +13,4 @@ This automation project was made to automate web test scnarios using Selenium an
 - Necessary the browser driver on Driver folder
 
 ## Running
-Execute the Runner packed folders
+Execute the Runner packed folder
