@@ -13,5 +13,4 @@ This automation project was made to automate web test scnarios using Selenium an
 - Necessary the browser driver on Driver folder
 
 ## Running
-executar os arquivos do pacote runner
 Execute the Runner packed folders
