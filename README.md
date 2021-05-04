@@ -9,8 +9,8 @@ This automation project was made to automate web test scnarios using Selenium an
 - Java 8
 
 ## Prerequisites
-All the scenarios it's on Features folder
-Necessary the browser driver on Driver folder
+- All the scenarios it's on Features folder
+- Necessary the browser driver on Driver folder
 
 ## Running
 executar os arquivos do pacote runner
